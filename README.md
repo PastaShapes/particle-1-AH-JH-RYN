@@ -1,3 +1,5 @@
+# Particle Physics Coursework 1 #
+
 # Instructions for setting up python environment and launching Jupyter Notebook on MacOS or Windows #
 
 0. **Assumes you have miniconda installed on MacOs Anaconda and Anaconda powershell installed on Windows**
